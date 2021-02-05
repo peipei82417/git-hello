@@ -4,3 +4,6 @@ console.log('test 9');
 console.warn('test 10');
 console.warn('test 11');
 console.warn('test 12');
+console.log('test 10');
+console.log('test 11');
+console.log('test 12');
