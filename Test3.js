@@ -1,3 +1,3 @@
-console.warn('test 7');
-console.warn('test 8');
-console.warn('test 9');
+console.log('test 7');
+console.log('test 8');
+console.log('test 9');
